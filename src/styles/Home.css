@@ -1,0 +1,42 @@
+.Div {
+  text-align: center;
+  width: 100%;
+  height: 100%;
+}
+
+.Home {
+  list-style: none;
+  overflow: hidden;
+}
+
+.Home li{
+  float: left;
+  display: block;
+  padding: 5px;
+}
+
+.Comics {
+  display: block;
+
+}
+
+
+.Comic {
+  position: relative;
+  width: 100%;
+}
+
+.Comic h5 {
+  position: absolute;
+  left: 0;
+  width: 100%;
+}
+
+.Comic h5 span {
+  color: white;
+  font: bold 18px/18px Helvetica, Sans-Serif;
+  letter-spacing: -1px;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.7);
+  padding: 10px;
+}

@@ -1,0 +1,9 @@
+.Menu {
+  list-style: none;
+}
+
+.Menu li {
+  float: left;
+  display: block;
+  padding: inherit;
+}
